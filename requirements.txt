@@ -1,3 +1,4 @@
+dnspython==2.2.1
 motor==3.1.2
 psutil==5.9.5
 pyromod==2.0.0
